@@ -5,7 +5,7 @@ import 'package:flutter/services.dart';
 import 'node.dart';
 
 List<Node> decisionMap = [];
-:MediaQuery
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
